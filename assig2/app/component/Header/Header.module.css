@@ -1,0 +1,4 @@
+.header{border :1px solid black;
+    background-color:beige; display: flex; justify-content: center;}
+.image{height:100px; width:100px
+}
